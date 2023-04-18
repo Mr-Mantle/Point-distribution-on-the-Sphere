@@ -1,0 +1,437 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{xiaolong_uniformly}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1856f60772f5a98e25d1605cd098a544}{%
+           family={Xiaolong},
+           familyi={X\bibinitperiod},
+           given={Han},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {CSUN}%
+      }
+      \strng{namehash}{1856f60772f5a98e25d1605cd098a544}
+      \strng{fullhash}{1856f60772f5a98e25d1605cd098a544}
+      \strng{bibnamehash}{1856f60772f5a98e25d1605cd098a544}
+      \strng{authorbibnamehash}{1856f60772f5a98e25d1605cd098a544}
+      \strng{authornamehash}{1856f60772f5a98e25d1605cd098a544}
+      \strng{authorfullhash}{1856f60772f5a98e25d1605cd098a544}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{UNIFORMLY BOUNDED SPHERICAL HARMONICS AND QUANTUM ERGODICITY}
+      \verb{urlraw}
+      \verb https://www.csun.edu/~xiaolong/Han_BddSH.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.csun.edu/~xiaolong/Han_BddSH.pdf
+      \endverb
+    \endentry
+    \entry{hars_2020_numerical100}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7397880696de97474a6eb90317f2391a}{%
+           family={Hars},
+           familyi={H\bibinitperiod},
+           given={Laszlo},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{7397880696de97474a6eb90317f2391a}
+      \strng{fullhash}{7397880696de97474a6eb90317f2391a}
+      \strng{bibnamehash}{7397880696de97474a6eb90317f2391a}
+      \strng{authorbibnamehash}{7397880696de97474a6eb90317f2391a}
+      \strng{authornamehash}{7397880696de97474a6eb90317f2391a}
+      \strng{authorfullhash}{7397880696de97474a6eb90317f2391a}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Numerical Solutions for Midsize Tammes Problems: N = 61…100}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{hars_2020_numerical}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7397880696de97474a6eb90317f2391a}{%
+           family={Hars},
+           familyi={H\bibinitperiod},
+           given={Laszlo},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{7397880696de97474a6eb90317f2391a}
+      \strng{fullhash}{7397880696de97474a6eb90317f2391a}
+      \strng{bibnamehash}{7397880696de97474a6eb90317f2391a}
+      \strng{authorbibnamehash}{7397880696de97474a6eb90317f2391a}
+      \strng{authornamehash}{7397880696de97474a6eb90317f2391a}
+      \strng{authorfullhash}{7397880696de97474a6eb90317f2391a}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Numerical Solutions of the Tammes Problem for up to 60 Points}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.hars.us/Papers/Numerical_Tammes.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.hars.us/Papers/Numerical_Tammes.pdf
+      \endverb
+    \endentry
+    \entry{antoniano_2019_the}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e7aa42434d0303cfd1f5689cd11d7b7d}{%
+           family={Antoniano},
+           familyi={A\bibinitperiod},
+           given={Enrique},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e7aa42434d0303cfd1f5689cd11d7b7d}
+      \strng{fullhash}{e7aa42434d0303cfd1f5689cd11d7b7d}
+      \strng{bibnamehash}{e7aa42434d0303cfd1f5689cd11d7b7d}
+      \strng{authorbibnamehash}{e7aa42434d0303cfd1f5689cd11d7b7d}
+      \strng{authornamehash}{e7aa42434d0303cfd1f5689cd11d7b7d}
+      \strng{authorfullhash}{e7aa42434d0303cfd1f5689cd11d7b7d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Tammes Problem Projective Stiefel Manifolds View project The Tammes Problem El Problema de Tammes}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.46571/JCI.2019.1.8
+      \endverb
+    \endentry
+    \entry{berry_2015_relaxed}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=2aa31841b1642faec4f766c37e6090c8}{%
+           family={Berry},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e20d149ad284c7d5a128095eb9c9d72b}{%
+           family={Dannenberg},
+           familyi={D\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1e883e862ce7bc886d867171f106b465}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3574102223e55c78affcd0f98ea77afe}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Yingyi},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{5fa0fbceb799a1072cd09bf3fbdd0d7d}
+      \strng{fullhash}{4a7fee24592a3afcaeae272c59405535}
+      \strng{bibnamehash}{4a7fee24592a3afcaeae272c59405535}
+      \strng{authorbibnamehash}{4a7fee24592a3afcaeae272c59405535}
+      \strng{authornamehash}{5fa0fbceb799a1072cd09bf3fbdd0d7d}
+      \strng{authorfullhash}{4a7fee24592a3afcaeae272c59405535}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{RELAXED DISK PACKINGS}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{brauchart_2015_distributing}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cf1cecc2a1970c1f550148b79ecfaf91}{%
+           family={Brauchart},
+           familyi={B\bibinitperiod},
+           given={Johann\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3bdb13ff900b26a43e8c33e93f099abc}{%
+           family={Grabner},
+           familyi={G\bibinitperiod},
+           given={Peter\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{baa13fec907f375037fed13313e43cef}
+      \strng{fullhash}{baa13fec907f375037fed13313e43cef}
+      \strng{bibnamehash}{baa13fec907f375037fed13313e43cef}
+      \strng{authorbibnamehash}{baa13fec907f375037fed13313e43cef}
+      \strng{authornamehash}{baa13fec907f375037fed13313e43cef}
+      \strng{authorfullhash}{baa13fec907f375037fed13313e43cef}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Complexity}
+      \field{month}{06}
+      \field{title}{Distributing many points on spheres: Minimal energy and designs}
+      \field{urlday}{30}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{31}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{293\bibrangedash 326}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1016/j.jco.2015.02.003
+      \endverb
+    \endentry
+    \entry{musin_2015_the}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=059a5cedcfc29e797c12d797b61c15f9}{%
+           family={Musin},
+           familyi={M\bibinitperiod},
+           given={Oleg\bibnamedelima R.},
+           giveni={O\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8a6a667063a6e7520938e86e499f3c7e}{%
+           family={Tarasov},
+           familyi={T\bibinitperiod},
+           given={Alexey\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2dc0d166b7f287a557c2f4252882d72f}
+      \strng{fullhash}{2dc0d166b7f287a557c2f4252882d72f}
+      \strng{bibnamehash}{2dc0d166b7f287a557c2f4252882d72f}
+      \strng{authorbibnamehash}{2dc0d166b7f287a557c2f4252882d72f}
+      \strng{authornamehash}{2dc0d166b7f287a557c2f4252882d72f}
+      \strng{authorfullhash}{2dc0d166b7f287a557c2f4252882d72f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Experimental Mathematics}
+      \field{month}{07}
+      \field{title}{The Tammes Problem for <i>N</i> = 14}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{24}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{460\bibrangedash 468}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1080/10586458.2015.1022842
+      \endverb
+    \endentry
+    \entry{sugimoto_2015_exact}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=5d7ae25440fa2e4411472aae238892da}{%
+           family={SUGIMOTO},
+           familyi={S\bibinitperiod},
+           given={TERUHISA},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a361620d6ffa1596f8e7f6eb772e0ea4}{%
+           family={TANEMURA},
+           familyi={T\bibinitperiod},
+           given={MASAHARU},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c086fc67bcc96872f9bf51320c19e163}
+      \strng{fullhash}{c086fc67bcc96872f9bf51320c19e163}
+      \strng{bibnamehash}{c086fc67bcc96872f9bf51320c19e163}
+      \strng{authorbibnamehash}{c086fc67bcc96872f9bf51320c19e163}
+      \strng{authornamehash}{c086fc67bcc96872f9bf51320c19e163}
+      \strng{authorfullhash}{c086fc67bcc96872f9bf51320c19e163}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{09}
+      \field{title}{EXACT VALUE OF TAMMES PROBLEM FOR N = 10}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1509.01768
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1509.01768
+      \endverb
+    \endentry
+    \entry{haichau_2010_a}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=7cfbe72879dd12a4b17528b25f3ad131}{%
+           family={Hai-chau},
+           familyi={H\bibinithyphendelim c\bibinitperiod},
+           given={Chang},
+           giveni={C\bibinitperiod}}}%
+        {{hash=751f6cbc814888822566625f352fd496}{%
+           family={Lih-Chung},
+           familyi={L\bibinithyphendelim C\bibinitperiod},
+           given={Wang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{55d213a2d337237cbbc77ac5dab80dc3}
+      \strng{fullhash}{55d213a2d337237cbbc77ac5dab80dc3}
+      \strng{bibnamehash}{55d213a2d337237cbbc77ac5dab80dc3}
+      \strng{authorbibnamehash}{55d213a2d337237cbbc77ac5dab80dc3}
+      \strng{authornamehash}{55d213a2d337237cbbc77ac5dab80dc3}
+      \strng{authorfullhash}{55d213a2d337237cbbc77ac5dab80dc3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{09}
+      \field{title}{A Simple Proof of Thue’s Theorem on Circle Packing}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{tomaso_2008_the}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=17256bd0ef21c74ecc86d7b942ce8eb6}{%
+           family={Tomaso},
+           familyi={T\bibinitperiod},
+           given={Aste},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b6712f7f23be47217aa3b02d94b57f2c}{%
+           family={Denis},
+           familyi={D\bibinitperiod},
+           given={Weaire},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{513f2570f5868b80286a7b1a04f188e3}
+      \strng{fullhash}{513f2570f5868b80286a7b1a04f188e3}
+      \strng{bibnamehash}{513f2570f5868b80286a7b1a04f188e3}
+      \strng{authorbibnamehash}{513f2570f5868b80286a7b1a04f188e3}
+      \strng{authornamehash}{513f2570f5868b80286a7b1a04f188e3}
+      \strng{authorfullhash}{513f2570f5868b80286a7b1a04f188e3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{THE PURSUIT OF PERFECT PACKING SECOND EDITION}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{classical_1995_on}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=176e256c4f32238100a2c5b5446150d7}{%
+           family={Classical},
+           familyi={C\bibinitperiod},
+           given={Part},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d8fea1bb921c8481c0d0439f3e1228c6}{%
+           family={Horváth},
+           familyi={H\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{e4f83f0308605feb7e195c3a10664db1}
+      \strng{fullhash}{e4f83f0308605feb7e195c3a10664db1}
+      \strng{bibnamehash}{e4f83f0308605feb7e195c3a10664db1}
+      \strng{authorbibnamehash}{e4f83f0308605feb7e195c3a10664db1}
+      \strng{authornamehash}{e4f83f0308605feb7e195c3a10664db1}
+      \strng{authorfullhash}{e4f83f0308605feb7e195c3a10664db1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ON DIRICHLET-VORONOI CELL}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{year}{1995}
+      \field{urldateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{mooers_1994_tammess}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b573cf619bbd7ffb1a5ed8e3ecc56189}{%
+           family={Mooers},
+           familyi={M\bibinitperiod},
+           given={Edith},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{b573cf619bbd7ffb1a5ed8e3ecc56189}
+      \strng{fullhash}{b573cf619bbd7ffb1a5ed8e3ecc56189}
+      \strng{bibnamehash}{b573cf619bbd7ffb1a5ed8e3ecc56189}
+      \strng{authorbibnamehash}{b573cf619bbd7ffb1a5ed8e3ecc56189}
+      \strng{authornamehash}{b573cf619bbd7ffb1a5ed8e3ecc56189}
+      \strng{authorfullhash}{b573cf619bbd7ffb1a5ed8e3ecc56189}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tammes's Problem}
+      \field{year}{1994}
+      \verb{urlraw}
+      \verb https://pdodds.w3.uvm.edu/teaching/courses/2009-08UVM-300/docs/others/1994/mooers1994a.pdf
+      \endverb
+      \verb{url}
+      \verb https://pdodds.w3.uvm.edu/teaching/courses/2009-08UVM-300/docs/others/1994/mooers1994a.pdf
+      \endverb
+    \endentry
+    \entry{chung_1993_mathematics}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=1d2495bc5132ebe0aba48b654d7adca3}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=eb69008c1b61dcaf0faf48d8aa7f48c3}{%
+           family={Sternberg},
+           familyi={S\bibinitperiod},
+           given={Shlomo},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1594fc2dc4b524b46a244d1b5a9ea4d0}
+      \strng{fullhash}{1594fc2dc4b524b46a244d1b5a9ea4d0}
+      \strng{bibnamehash}{1594fc2dc4b524b46a244d1b5a9ea4d0}
+      \strng{authorbibnamehash}{1594fc2dc4b524b46a244d1b5a9ea4d0}
+      \strng{authornamehash}{1594fc2dc4b524b46a244d1b5a9ea4d0}
+      \strng{authorfullhash}{1594fc2dc4b524b46a244d1b5a9ea4d0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mathematics and the Buckyball}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{year}{1993}
+      \field{urldateera}{ce}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

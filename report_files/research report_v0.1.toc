@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}voronöi cell}{2}{section.2}%
+\contentsline {section}{\numberline {3}Tammes's Problem}{3}{section.3}%
+\contentsline {section}{\numberline {4}Condition 1: Well-separation}{4}{section.4}%
+\contentsline {section}{\numberline {5}Condition 2: No clustering around great circles}{5}{section.5}%
+\contentsline {section}{\numberline {6}Condition 3: Equi-distribution/Evenly distributed}{11}{section.6}%
